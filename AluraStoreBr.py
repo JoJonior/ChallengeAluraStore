@@ -273,7 +273,7 @@ def mapa_heatmap_vendas(lojas: list[pd.DataFrame]): #
         heat_data = [[row['lat'], row['lon']] for _, row in loja.iterrows()]
         HeatMap(heat_data, radius=10).add_to(mapa)
 
-    mapa.save("PLOTS/heatmap_vendas.html")
+    mapa.save("paginas/heatmap_vendas.html")
 
 def mapa_interativo_por_loja(lojas: list[pd.DataFrame]):
     """Vendas de lojas diferentes foram feitas no mesmo local, logo sem um sistema de camadas não seria possivl visualizar todas."""
@@ -307,7 +307,7 @@ def mapa_interativo_por_loja(lojas: list[pd.DataFrame]):
         grupo.add_to(mapa)
 
     folium.LayerControl(collapsed=False).add_to(mapa)
-    mapa.save("PLOTS/mapa_interativo_lojas.html")
+    mapa.save("paginas/mapa_interativo_lojas.html")
 
 mapa_heatmap_vendas(lojas)
 mapa_interativo_por_loja(lojas)

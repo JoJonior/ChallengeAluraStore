@@ -63,7 +63,7 @@ A loja 4 tem o frete mais barato, já loja 1 tem o mais caro, porem os valores v
 <img width="805" height="725" alt="image" src="https://github.com/user-attachments/assets/a096a2a3-5ec2-4321-804b-393271bdd4d0" />
 
 
-🔗 [🔍 Clique aqui para abrir o mapa interativo](PLOTS/heatmap_vendas.html)
+🔗 [🔍 Clique aqui para abrir o mapa interativo](paginas/heatmap_vendas.html)
 
 📌 *Resumo:*  
 Olhando no mapa, é possivel notar que as regiões costeiras tem mais clientes.
@@ -75,7 +75,7 @@ Olhando no mapa, é possivel notar que as regiões costeiras tem mais clientes.
 <img width="1868" height="898" alt="image" src="https://github.com/user-attachments/assets/675cec9b-8093-477b-a688-999d8f49174b" />
 
 
-🔗 [🔍 Clique aqui para abrir o mapa interativo com camadas](PLOTS/mapa_interativo_lojas.html)
+🔗 [🔍 Clique aqui para abrir o mapa interativo com camadas](paginas/mapa_interativo_lojas.html)
 
 📌 *Resumo:*  
 Assim é possivel quais ponto recebem produtos das lojas, com um sistema de camada por loja.
