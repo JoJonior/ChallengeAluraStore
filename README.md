@@ -1,6 +1,6 @@
 # 📊 Análise de Lojas do Seu João
 
-Este projeto tem como objetivo analisar os dados de diferentes lojas administradas pelo Seu João para ajudá-lo a tomar a melhor decisão sobre **qual loja vender**. A análise contempla aspectos como faturamento, avaliação dos clientes, produtos vendidos e custos com frete, além de mapas interativos para melhor visualização espacial das vendas.
+Este projeto tem como objetivo analisar os dados de diferentes lojas administradas pelo Seu João para ajudá-lo a tomar a melhor decisão sobre **qual loja vender**, sendo a com menor eficiência. A análise contempla aspectos como faturamento, avaliação dos clientes, produtos vendidos e custos com frete, além de mapas interativos para melhor visualização espacial das vendas.
 
 ---
 
