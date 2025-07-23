@@ -63,7 +63,7 @@ A loja 4 tem o frete mais barato, já loja 1 tem o mais caro, porem os valores v
 <img width="805" height="725" alt="image" src="https://github.com/user-attachments/assets/a096a2a3-5ec2-4321-804b-393271bdd4d0" />
 
 
-🔗 [🔍 Clique aqui para abrir o mapa interativo](https://jojonior.github.io/ChallengeAluraStore/heatmap_vendas.html)
+🔗 [🔍 Clique aqui para abrir o mapa interativo](https://jojonior.github.io/ChallengeAluraStore/paginas/heatmap_vendas.html)
 
 📌 *Resumo:*  
 Olhando no mapa, é possivel notar que as regiões costeiras tem mais clientes.
